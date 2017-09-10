@@ -16,11 +16,11 @@ void skill1() {
 	// Use pop-ups for the following. DO NOT use Eclipse short cuts to help you
 	
 	// Ask the user how many dimes they have
-	String userAns= JOptionPane.showInputDialog("How many dimes do you have?");
-	// Tell them how many cents they have (hint multiply by 10)
-	int userNum = Integer.parseInt(userAns);
-	int userNum2= userNum * 10;
-	JOptionPane.showMessageDialog(null, "$."+userNum2);
+//	String userAns= JOptionPane.showInputDialog("How many dimes do you have?");
+//	// Tell them how many cents they have (hint multiply by 10)
+//	int userNum = Integer.parseInt(userAns);
+//	int userNum2= userNum * 10;
+//	JOptionPane.showMessageDialog(null, "$."+userNum2);
 	
 	// Ask the user how tall they are (inches)
 //	String tallAns= JOptionPane.showInputDialog("How tall are you in inches?");
